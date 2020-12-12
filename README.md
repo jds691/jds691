@@ -1,4 +1,4 @@
-### Welcome! 
+# Welcome! 
 
 I'm jds691 (he/him), who's still learning to code. I'm currently learning C# and C++ for desktop application development as well as Python for fun 😄
 
@@ -10,7 +10,6 @@ I'm jds691 (he/him), who's still learning to code. I'm currently learning C# and
 ### C++
 
 ### Python
-I know 
 
 <!--
 **jds691/jds691** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
