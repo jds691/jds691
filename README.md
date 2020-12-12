@@ -66,7 +66,6 @@ I don't have any projects or uses for Python. However, the language interests me
 ## Socials
 
 - Twitter: [@jds691](https://twitter.com/jds691/)
--->
 
 ## Closing thoughts
 
