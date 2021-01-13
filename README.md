@@ -21,7 +21,7 @@ Currently I'm just familiar with windows forms and I'm learning WPF in hopes of 
 <br/>
 
 ### C++
-<img align="left" src="https://github.com/jds691/jds691/blob/master/C%2B%2B%20(Custom).png" />
+<img align="left" src="https://github.com/jds691/jds691/blob/master/cpp.png" />
 Don't currently know much C++ but I'm willing to learn and look through code I can find here.
 <br/>
 <br/>
@@ -37,7 +37,7 @@ Don't currently know much C++ but I'm willing to learn and look through code I c
 <br/>
 
 ### Python
-<img align="left" src="https://github.com/jds691/jds691/blob/master/Python%20(Custom).png" />
+<img align="left" src="https://github.com/jds691/jds691/blob/master/python.png" />
 I don't have any projects or uses for Python. However, the language interests me and that's good enough for me.
 <br/>
 <br/>
@@ -67,9 +67,11 @@ I don't have any projects or uses for Python. However, the language interests me
 
 - Twitter: [@jds691](https://twitter.com/jds691/)
 
+<!--
 ## Closing thoughts
 
 Thank you so much for reading about me and what I do!
+-->
 
 <!--
 **jds691/jds691** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
