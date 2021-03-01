@@ -1,6 +1,8 @@
 # Welcome ✨
-<img align="center" src="https://avatars2.githubusercontent.com/u/52429194?s=460&u=97d0e40346c11e7efb6b05b26a1a9efc990c7a77&v=4" />
-I'm jds691 || he/him ||, just a teen who's still learning to code. I'm currently learning C# and C++ for desktop application development as well as Python for fun
+<p align="center">
+    <img src="https://avatars2.githubusercontent.com/u/52429194?s=460&u=97d0e40346c11e7efb6b05b26a1a9efc990c7a77&v=4" />
+</p>
+I'm jds691 || he/they || minor || gay 🏳️‍🌈 || just a teen who's still learning to code. I'm currently learning C# and C++ for desktop application development as well as Python for fun
 
 ## Languages
 
