@@ -11,7 +11,7 @@ I'm jds691 || he/they || minor || gay 🏳️‍🌈 || just a teen who's still 
 | C# | Currently not doing much with this but at least I have it | - |
 | TypeScript // JavaScript| Currently focusing a lot on this, especially with Atlas preperations and discord stuff |[Atlas](https://github.com/jds691/Atlas/)|
 | React | Not too bothered with this but I am trying to learn this to build Atlas |[Atlas](https://github.com/jds691/Atlas/)|
-| Swift| I am learning this because I want to make software that is accessible to iOS users | [LGBTQ Guide]()|
+| Swift| I am learning this because I want to make software that is accessible to iOS users | [LGBTQ Guide](https://github.com/jds691/LGBTQ-Guide/)|
 | Python| I'm using this for personal utilities and scripts, nothing too fancy or fun | - |
 
 ## Current projects
