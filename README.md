@@ -17,7 +17,7 @@ I'm jds691 || he/they || minor || gay 🏳️‍🌈 || just a teen who's still 
 ## Current projects
 
 - [Atlas](https://github.com/jds691/Atlas/): Universal game launcher for MacOS and Windows 10
-- [LGBTQ Guide](https://github.com/jds691/LGBTQ-Guide): A SwiftUI app to educate people about the LGBTQ+ community
+- [LGBTQ Guide](https://github.com/jds691/LGBTQ-Guide/): A SwiftUI app to educate people about the LGBTQ+ community
 
 ## Socials
 
