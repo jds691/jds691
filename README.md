@@ -9,15 +9,15 @@ I'm jds691 || he/they || minor || gay 🏳️‍🌈 || just a teen who's still 
 | Language | What I'm doing with this | Repos |
 | ---- | ---- | ---- |
 | C# | Currently not doing much with this but at least I have it | - |
-| TypeScript // JavaScript| Currently focusing a lot on this, especially with Atlas preperations and discord stuff |[Atlas](https://github.com/jds691/Atlas/)|
-| React | Not too bothered with this but I am trying to learn this to build Atlas |[Atlas](https://github.com/jds691/Atlas/)|
-| Swift| I am learning this because I want to make software that is accessible to iOS users | [LGBTQ Guide](https://github.com/jds691/LGBTQ-Guide/)|
+| TypeScript // JavaScript| Currently focusing a lot on this, especially with Atlas preperations and discord stuff | Atlas <!--[Atlas](https://github.com/jds691/Atlas/) -->|
+| React | Not too bothered with this but I am trying to learn this to build Atlas |Atlas <!--[Atlas](https://github.com/jds691/Atlas/) -->|
+| Swift| I am learning this because I want to make software that is accessible to iOS users | LGBTQ Guide <!--[LGBTQ Guide](https://github.com/jds691/LGBTQ-Guide) --> |
 | Python| I'm using this for personal utilities and scripts, nothing too fancy or fun | - |
 
 ## Current projects
 
-- [Atlas](https://github.com/jds691/Atlas/): Universal game launcher for MacOS and Windows 10
-- [LGBTQ Guide](https://github.com/jds691/LGBTQ-Guide/): A SwiftUI app to educate people about the LGBTQ+ community
+- Atlas <!--[Atlas](https://github.com/jds691/Atlas/) -->: Universal game launcher for MacOS and Windows 10
+- LGBTQ Guide <!--[LGBTQ Guide](https://github.com/jds691/LGBTQ-Guide) -->: A SwiftUI app to educate people about the LGBTQ+ community
 
 ## Socials
 
