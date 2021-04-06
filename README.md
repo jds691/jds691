@@ -14,7 +14,7 @@ I'm jds691 || he/they || minor || gay 🏳️‍🌈 || just a teen who's still 
 | React | Not too bothered with this but I am trying to learn this to build Atlas |Atlas <!--[Atlas](https://github.com/jds691/Atlas/) -->|
 | Swift| I am learning this because I want to make software that is accessible to iOS users | LGBTQ Guide <!--[LGBTQ Guide](https://github.com/jds691/LGBTQ-Guide) --> |
 | Python| I'm using this for personal utilities and scripts, nothing too fancy or fun | - |
-| Haxe| I have no clue what I'm doing all of my work is based on [Friday Night Funkin'](https://github.com/ninjamuffin99/Funkin) source code| Friday Night Funkin' - Klonoa Mod |
+| Haxe| I have no clue what I'm doing all of my work is based on the [Kade-Engine](https://github.com/KadeDev/Kade-Engine) source code| Friday Night Funkin' - Klonoa Mod |
 
 ## Current projects
 
