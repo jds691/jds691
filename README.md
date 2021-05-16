@@ -3,7 +3,7 @@
 <p align="center">
     <img style="border-radius:20px; -webkit-border-radius:20px; -moz-border-radius:20px; -khtml-border-radius:20px;" src="https://avatars2.githubusercontent.com/u/52429194?s=460&u=97d0e40346c11e7efb6b05b26a1a9efc990c7a77&v=4" />
 </p>
-I'm jds691 || He // They || minor || gay 🏳️‍🌈 || just a teen who's still learning to code. I'm currently learning C#, TypeScript and JavaScript for desktop application development as well as Swift for iOS developement and Python for fun!
+I'm jds691 || They // Them || minor || gay 🏳️‍🌈 || just a teen who's still learning to code. I'm currently learning C#, TypeScript and JavaScript for desktop application development as well as Swift for iOS developement and Python for fun!
 
 ## Languages
 
